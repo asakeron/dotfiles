@@ -1,7 +1,7 @@
 [user]
-	email = absilva@emancipa.online
+	email = abs@emancipe.se
 	name = André
-	signingkey = C144B03879D21291
+	signingkey = D4AE7EF790F162D2
 [commit]
 	gpgsign = true
 [tag]
