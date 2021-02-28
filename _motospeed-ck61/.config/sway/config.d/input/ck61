@@ -1,7 +1,0 @@
-### Specific configuration for the motospeed ck61 keyboard
-
-input "9610:22:BY_Tech_Usb_Gaming_Keyboard" {
-  xkb_layout  br
-  xkb_model   pc102
-  xkb_variant ck61
-}

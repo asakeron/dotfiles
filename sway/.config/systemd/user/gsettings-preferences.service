@@ -1,9 +1,0 @@
-[Unit]
-Description=gsettings preferences
-
-[Service]
-Type=oneshot
-ExecStart=%h/.local/bin/gsettings-preferences.sh
-
-[Install]
-WantedBy=sway.service

@@ -1,8 +1,0 @@
-[Unit]
-Description=sway - SirCmpwn's Wayland window managers
-Documentation=man:sway(5)
-
-[Service]
-Type=simple
-ExecStart=/usr/bin/sway
-
