@@ -1,6 +1,0 @@
-[Unit]
-Description=Unattended nvim plugins update
-
-[Service]
-Type=oneshot
-ExecStart=/usr/bin/nvim --headless +"PlugUpgrade" +"PlugUpdate!" +"qa!"

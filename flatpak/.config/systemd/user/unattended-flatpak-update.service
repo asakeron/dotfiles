@@ -1,6 +1,0 @@
-[Unit]
-Description=Unattended flatpak update
-
-[Service]
-Type=oneshot
-ExecStart=/usr/bin/flatpak --user update --assumeyes --noninteractive

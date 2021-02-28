@@ -1,1 +1,0 @@
-alias flatpak='flatpak --user'

@@ -1,5 +1,0 @@
-# To use the config file respecting the XDG User Directories specification
-# the command line argument -F <location> must be used in every invocation.
-Host *
-  IdentityFile /home/asakeron/.local/share/ssh/id_rsa
-  UserKnownHostsFile /home/asakeron/.cache/ssh/known_hosts
